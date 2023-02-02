@@ -22,6 +22,7 @@ This is a solution to the interview question which required the applicant to mak
 -> Once it is done run ng serve to start the application<br>
 -> Open your browser and enter localhost:4200 in the url<br><br>
 <b>2. Downloading</b><br>
+-> Download the zip folder
 -> Open the folder in your preferred text editor / IDE<br>
 -> Open the terminal and run NPM install to install dependencies (make sure you have npm installed on your local machine)<br>
 -> Once it is done run ng serve to start the application<br>
